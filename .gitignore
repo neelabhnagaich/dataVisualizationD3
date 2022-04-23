@@ -1,0 +1,21 @@
+# dependencies
+smilyfacereactd3/node_modules
+smilyfacereactd3/.pnp
+smilyfacereactd3/.pnp.js
+
+# testing
+smilyfacereactd3/coverage
+
+# production
+smilyfacereactd3/build
+
+# misc
+smilyfacereactd3/.DS_Store
+smilyfacereactd3/.env.local
+smilyfacereactd3/.env.development.local
+smilyfacereactd3/.env.test.local
+smilyfacereactd3/.env.production.local
+
+smilyfacereactd3/npm-debug.log*
+smilyfacereactd3/yarn-debug.log*
+smilyfacereactd3/yarn-error.log*
